@@ -12,7 +12,7 @@
 ![Design mobile](./design/mobile-design.jpg)
 
 # Desktop 1440px
-![Design mobile](./design/desktop-design.jpg)
+![Design desktop](./design/desktop-design.jpg)
 
 # Active States
-![Design mobile](./design/active-states.jpg)
+![Active States](./design/active-states.jpg)
